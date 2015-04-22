@@ -10,7 +10,7 @@ public class laporan1 {
 		kali();//pemanggilan method kali
 	}
 	
-	static void biodata() {
+	static void biodata() {  // BERIKAN PENJELASAN maksudnya apa ..=)
 		String nama="Dedy"; //pendeklarasian variabel lokal
 		String alamat="Perumnas Antang"; //pendeklarasian variabel lokal
 		int usia=20; //pendeklarasian variabel lokal
@@ -21,19 +21,19 @@ public class laporan1 {
 		System.out.println("Karena lahir padaa tanggal "+tanggal_lahir);
 	}
 	
-	static int jumlah(int a, int b) {
-		return a+b;
+	static int jumlah(int a, int b) { // BERIKAN PENJELASAN  jumlah(int a, int b) maksudnya apa ..=)
+		return a+b;  // BERIKAN PENJELASAN  jumlah(int a, int b) maksudnya apa ..=)
 	}
 	static int kurang(int a, int b) {
 		return a-b;
 	}
 	static void kali() {
-		a=10;
-		b=4;
-		c=a*b;
+		a=10;  // BERIKAN PENJELASAN maksudnya apa ..=)
+		b=4;  // BERIKAN PENJELASAN maksudnya apa ..=)
+		c=a*b;  // BERIKAN PENJELASAN maksudnya apa ..=)
 		System.out.println("hasil kali dari "+a+" dan "+b+" adalah "+c);
 	}
-	static float bagi(float a, float b) {
-		return a/b;
+	static float bagi(float a, float b) {  // BERIKAN PENJELASAN maksudnya apa ..=)
+		return a/b;   // BERIKAN PENJELASAN maksudnya apa ..=)
 	}
 }
